@@ -1,0 +1,24 @@
+img {
+    width: 400px;
+}
+
+.top {
+    margin-top: 2.5em;
+}
+
+.container {
+    margin-top: 2.5em;
+}
+
+.border {
+    border-radius: 10%
+}
+
+.link {
+    text-decoration: nome;
+    color: #000000;
+}
+
+.ponto {
+    color: brown;
+}
